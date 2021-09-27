@@ -1,3 +1,7 @@
-### Hi there 👋
+### Hi i'm Reza 👋
 
-I am backend developer especially GO and PHP from Indonesia.
+Software Engineer especially GO, NodeJS(typescript), and PHP from Indonesia, I have been developing since 2012.
+
+Currently working at [BCIAsia] as Backend Developer and have been actively contributing to open source libraries. 
+
+[BCIAsia]: <http://bciasia.com>
