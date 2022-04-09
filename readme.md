@@ -1,3 +1,5 @@
+![mreza.id](https://i.ibb.co/VBrscyX/dino.gif)
+
 ### Hi i'm Reza 👋
 
 Software Engineer especially GO, NodeJS(typescript), and PHP from Indonesia, I have been developing since 2012.
